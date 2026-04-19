@@ -106,7 +106,7 @@ Due to the high demand for campus clinic services, students require quick, relia
 - **Frontend:** React
 - **Backend:** Java, Node.js
 - **Database:** Supabase/Firebase
-- **Tools:** GitHub, Jira, and Figma.
+- **Tools:** GitHub, Trello, and Figma.
 
 ---
 
